@@ -1,6 +1,7 @@
 #include <iostream>
 #include <fstream>
 #include <vector>
+#include <optional>
 
 int main() {
 	std::ifstream input{"/home/ta1/src/aoc_2023/in.txt", std::ifstream::in};
